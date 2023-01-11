@@ -4,6 +4,8 @@
 
 Download latest at:
 https://www.pxpedia.blogspot.com
+featuring the latest regista with an easy to use app installer.
+
 
 requires: 
 <ul>
